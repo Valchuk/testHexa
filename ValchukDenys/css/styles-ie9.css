@@ -1,0 +1,19 @@
+.main-header-logo{
+	float: left;
+	margin-right: 120px;
+}
+.wrap{
+	float: left;
+	padding-top: 10px;
+}
+.order-button{
+	float: left;
+	padding-top: 8px;
+}
+.user-navigation{
+	float: right;
+	padding-top: 14px;
+}
+.main-content .info-item li{
+	float: left;
+}
